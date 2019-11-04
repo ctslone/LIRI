@@ -1,0 +1,23 @@
+{
+  "name": "LIRI",
+  "version": "1.0.0",
+  "description": "LIRI - Like SIRI but without the 'S'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctslone/LIRI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctslone/LIRI/issues"
+  },
+  "homepage": "https://github.com/ctslone/LIRI#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.1.1"
+  }
+}
