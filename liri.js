@@ -22,28 +22,28 @@ inquirer.prompt([
   .then(function (response) {
 
     if (response) {
-      console.log("\nSearching for " + response.userSearch + "...");
+      console.log("\nSearching for " + response.userSearch + "..." + "\n---------------");
       var command = response.command.toString();
 
       switch (command) {
         case 'concert-this':
           var artist = response.userSearch
           var queryUrl = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
-          axios.get(queryUrl).then(function (bandsResponse, err) {
+          axios.get(queryUrl).then(function (bandsResponse) {
             // If the request with axios is successful
-            if (bandsResponse.data.length <= 0) {
-              return console.log('Error occurred: ' + err);
+            if (bandsResponse.data.length === 0) {
+              return console.log('Error occurred: No events found. Please check back later!');
             }
-            // else if (artist === '...') {
-            //   console.log("NOOOOO")
-            // }
             else {
               for (x = 0; x < bandsResponse.data.length; x++) {
                 console.log("Venue: " + bandsResponse.data[x].venue.name + "\nLocation: " + bandsResponse.data[x].venue.city + ", " + bandsResponse.data[x].venue.country + "\nDate: " + moment(bandsResponse.data[x].datetime).format('L, HH:mm') + "\n---------------");
               }
             }
           })
-          // some stuff happens
+            .catch(function (err) {
+              console.log("There was an error: " + err);
+            });
+
           break;
         case 'spotify-this-song':
           var search = response.userSearch;
@@ -52,14 +52,14 @@ inquirer.prompt([
             if (err) {
               return console.log('Error occurred: ' + err);
             }
-            else if (spotifyData.tracks.items.length<1) {
-              console.log("Artist: Ace of Base" + "\nTrack: The Sign" + "\nAlbum: The Sign (US Album) [Remastered]" + "\nURL: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE" + "\n-----------------")
+            else if (spotifyData.tracks.items.length < 1) {
+              console.log("Artist: Ace of Base" + "\nTrack: The Sign" + "\nAlbum: The Sign (US Album) [Remastered]" + "\nURL: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE" + "\n---------------")
             }
             else {
 
               for (i = 0; i < spotifyData.tracks.items.length; i++) {
 
-                console.log("Artist: " + JSON.stringify(spotifyData.tracks.items[i].artists[0].name) + "\nTrack: " + JSON.stringify(spotifyData.tracks.items[i].name) + "\nAlbum: " + JSON.stringify(spotifyData.tracks.items[i].album.name) + "\nURL: " + JSON.stringify(spotifyData.tracks.items[i].external_urls.spotify) + "\n-----------------");
+                console.log("Artist: " + JSON.stringify(spotifyData.tracks.items[i].artists[0].name) + "\nTrack: " + JSON.stringify(spotifyData.tracks.items[i].name) + "\nAlbum: " + JSON.stringify(spotifyData.tracks.items[i].album.name) + "\nURL: " + JSON.stringify(spotifyData.tracks.items[i].external_urls.spotify) + "\n---------------");
               }
             }
           });
@@ -70,15 +70,19 @@ inquirer.prompt([
           axios.get(queryUrl).then(function (movieResponse) {
             // If the request with axios is successful
             // console.log(movieResponse.data);
-            console.log("Movie title: " + movieResponse.data.Title);
-            console.log("Year released: " + movieResponse.data.Year);
-            console.log("IMDB Rating: " + movieResponse.data.Ratings[0]["Value"]);
-            console.log("Rotten Tomatoes Rating: " + movieResponse.data.Ratings[1]["Value"]);
-            console.log("Country of Production: " + movieResponse.data.Country);
-            console.log("Language: " + movieResponse.data.Language);
-            console.log("Plot: " + movieResponse.data.Plot);
-            console.log("Actors: " + movieResponse.data.Actors);
+            console.log("Movie title: " + movieResponse.data.Title
+            + "\nYear released: " + movieResponse.data.Year 
+            + "\nIMDB Rating: " + movieResponse.data.Ratings[0]["Value"] 
+            + "\nRotten Tomatoes Rating: " + movieResponse.data.Ratings[1]["Value"] 
+            + "\nCountry of Production: " + movieResponse.data.Country 
+            + "\nLanguage: " + movieResponse.data.Language 
+            + "\nPlot: " + movieResponse.data.Plot 
+            + "\nActors: " + movieResponse.data.Actors
+            + "\n---------------");
           })
+          .catch(function (err) {
+            console.log("There was an error: " + err);
+          });
           break;
         case 'do-what-it-says':
           // some stuff happens
