@@ -1,7 +1,8 @@
 require("dotenv").config();
 var axios = require("axios");
-var inquirer = require("inquirer")
-var moment = require('moment')
+var inquirer = require("inquirer");
+var moment = require('moment');
+var fs = require("fs");
 var keys = require("./keys.js");
 var Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);
@@ -71,22 +72,37 @@ inquirer.prompt([
             // If the request with axios is successful
             // console.log(movieResponse.data);
             console.log("Movie title: " + movieResponse.data.Title
-            + "\nYear released: " + movieResponse.data.Year 
-            + "\nIMDB Rating: " + movieResponse.data.Ratings[0]["Value"] 
-            + "\nRotten Tomatoes Rating: " + movieResponse.data.Ratings[1]["Value"] 
-            + "\nCountry of Production: " + movieResponse.data.Country 
-            + "\nLanguage: " + movieResponse.data.Language 
-            + "\nPlot: " + movieResponse.data.Plot 
-            + "\nActors: " + movieResponse.data.Actors
-            + "\n---------------");
+              + "\nYear released: " + movieResponse.data.Year
+              + "\nIMDB Rating: " + movieResponse.data.Ratings[0]["Value"]
+              + "\nRotten Tomatoes Rating: " + movieResponse.data.Ratings[1]["Value"]
+              + "\nCountry of Production: " + movieResponse.data.Country
+              + "\nLanguage: " + movieResponse.data.Language
+              + "\nPlot: " + movieResponse.data.Plot
+              + "\nActors: " + movieResponse.data.Actors
+              + "\n---------------");
           })
-          .catch(function (err) {
-            console.log("There was an error: " + err);
-          });
+            .catch(function (err) {
+              console.log("There was an error: " + err);
+            });
           break;
         case 'do-what-it-says':
-          // some stuff happens
-          // some stuff happens
+          fs.readFile("random.txt", "utf8", function (error, data) {
+            if (error) {
+              return console.log(error);
+            };
+            console.log(data);
+            var dataArr = data.split(",");
+            console.log(dataArr);
+            var textCommand = []
+            textCommand.push(dataArr[0]) ;
+            var textInput = [];
+            textInput.push(dataArr[1]) ;
+
+            console.log(textCommand.toString());
+            console.log(textInput.toString());
+
+
+          })
           break;
       }
 
