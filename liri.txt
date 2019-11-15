@@ -1,15 +1,190 @@
 
 
-Searching for the movie: Jaws
+Searching for Killswitch Engage concerts...
 
-Movie title: Jaws
-Year released: 1975
-IMDB Rating: 8.0/10
-Rotten Tomatoes Rating: 98%
-Country of Production: USA
-Language: English
-Plot: When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.
-Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+Venue: EL TEATRITO
+Location: Comuna 1, Argentina
+Date: 12/08/2019, 19:00
+---------------
+
+Venue: Anhembi
+Location: São Paulo, Brazil
+Date: 12/07/2019, 19:00
+---------------
+
+Venue: Blondie
+Location: Santiago, Chile
+Date: 12/10/2019, 19:00
+---------------
+
+Venue: Mayor Auditorium CUN
+Location: Bogotá, Colombia
+Date: 12/12/2019, 19:00
+---------------
+
+Venue: Circo Volador
+Location: Ciudad De México, Mexico
+Date: 12/14/2019, 20:00
+---------------
+
+Venue: Cafe Iguana
+Location: Monterrey, Mexico
+Date: 12/15/2019, 19:00
+---------------
+
+Venue: Agora Theater & Ballroom
+Location: Cleveland, United States
+Date: 03/10/2020, 19:00
+---------------
+
+Venue: 20 Monroe Live
+Location: Grand Rapids, United States
+Date: 03/11/2020, 19:00
+---------------
+
+Venue: Franklin Music Hall
+Location: Philadelphia, United States
+Date: 03/13/2020, 19:00
+---------------
+
+Venue: The Fillmore Silver Spring
+Location: Silver Spring, United States
+Date: 03/14/2020, 19:00
+---------------
+
+Venue: The Ritz
+Location: Raleigh, United States
+Date: 03/15/2020, 19:00
+---------------
+
+Venue: Tabernacle
+Location: Atlanta, United States
+Date: 03/17/2020, 19:00
+---------------
+
+Venue: House of Blues Orlando
+Location: Lake Buena Vista, United States
+Date: 03/18/2020, 19:00
+---------------
+
+Venue: South Side Ballroom
+Location: Dallas, United States
+Date: 03/20/2020, 19:00
+---------------
+
+Venue: House of Blues Houston
+Location: Houston, United States
+Date: 03/21/2020, 19:00
+---------------
+
+Venue: Marquee Theatre
+Location: Tempe, United States
+Date: 03/23/2020, 19:00
+---------------
+
+Venue: The Wiltern
+Location: Los Angeles, United States
+Date: 03/24/2020, 19:00
+---------------
+
+Venue: Riverside Municipal Auditorium
+Location: Riverside, United States
+Date: 03/25/2020, 19:00
+---------------
+
+Venue: The Warfield
+Location: San Francisco, United States
+Date: 03/26/2020, 19:00
+---------------
+
+Venue: Revolution Concert House
+Location: Garden City, United States
+Date: 03/29/2020, 19:00
+---------------
+
+Venue: Showbox SoDo
+Location: Seattle, United States
+Date: 03/28/2020, 19:00
+---------------
+
+Venue: The Complex
+Location: Salt Lake City, United States
+Date: 03/31/2020, 19:00
+---------------
+
+Venue: Fillmore Auditorium
+Location: Denver, United States
+Date: 04/01/2020, 19:00
+---------------
+
+Venue: The Fillmore Minneapolis
+Location: Minneapolis, United States
+Date: 04/03/2020, 19:00
+---------------
+
+Venue: Radius
+Location: Chicago, United States
+Date: 04/04/2020, 19:00
+---------------
+
+Venue: The Fillmore Detroit
+Location: Detroit, United States
+Date: 04/05/2020, 19:00
+---------------
+
+Venue: Rebel Toronto
+Location: Toronto, Canada
+Date: 04/06/2020, 19:00
+---------------
+
+Venue: MTELUS
+Location: Montreal, Canada
+Date: 04/08/2020, 19:00
+---------------
+
+Venue: State Theatre
+Location: Portland, United States
+Date: 04/10/2020, 19:00
+---------------
+
+Venue: Terminal 5
+Location: New York, United States
+Date: 04/11/2020, 19:00
+---------------
+
+Venue: House Of Blues Boston
+Location: Boston, United States
+Date: 04/12/2020, 19:00
+---------------
+
+Venue: RAC Arena
+Location: Perth, Australia
+Date: 05/01/2020, 19:00
+---------------
+
+Venue: Adelaide Entertainment Centre
+Location: Adelaide, Australia
+Date: 05/03/2020, 19:00
+---------------
+
+Venue: Entertainment Centre Brisbane
+Location: Brisbane, Australia
+Date: 05/05/2020, 19:00
+---------------
+
+Venue: Qudos Bank Arena
+Location: Sydney, Australia
+Date: 05/07/2020, 19:00
+---------------
+
+Venue: Rod Laver Arena
+Location: Melbourne, Australia
+Date: 05/11/2020, 19:00
+---------------
+
+Venue: Spark Arena
+Location: Auckland, New Zealand
+Date: 05/13/2020, 19:00
 ---------------
 
 Searching for song: Gravity
@@ -132,4 +307,140 @@ Artist: "Stephen Schwartz"
 Track: "Defying Gravity - From \"Wicked\" Original Broadway Cast Recording/2003"
 Album: "Wicked"
 URL: "https://open.spotify.com/track/1bpnYrDCforv9ctJMzJRV8"
+---------------
+
+Searching for the movie: The Revenant
+
+Movie title: The Revenant
+Year released: 2015
+IMDB Rating: 8.0/10
+Rotten Tomatoes Rating: 79%
+Country of Production: USA, Hong Kong, Taiwan
+Language: English, Pawnee, French
+Plot: A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.
+Actors: Leonardo DiCaprio, Tom Hardy, Domhnall Gleeson, Will Poulter
+---------------
+
+Searching for song: I Want it That Way
+
+Searching for song: 
+
+Artist: "Backstreet Boys"
+Track: "I Want It That Way"
+Album: "The Hits--Chapter One"
+URL: "https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6"
+---------------
+
+Artist: "Backstreet Boys"
+Track: "I Want It That Way"
+Album: "Millennium"
+URL: "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
+---------------
+
+Artist: "Mick Jensen"
+Track: "I Want It That Way"
+Album: "I Want It That Way"
+URL: "https://open.spotify.com/track/0ympGdYdVlZ8zo6irdjMvd"
+---------------
+
+Artist: "Anthem Lights"
+Track: "I Want It That Way"
+Album: "Covers Part IV"
+URL: "https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA"
+---------------
+
+Artist: "\"Weird Al\" Yankovic"
+Track: "Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)"
+Album: "Poodle Hat"
+URL: "https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK"
+---------------
+
+Artist: "Backstreet Boys"
+Track: "I Want It That Way - Reimagined"
+Album: "I Want It That Way (Reimagined)"
+URL: "https://open.spotify.com/track/62KnDRUq6CBcT7Bqb9IHKV"
+---------------
+
+Artist: "Dynamite Boy"
+Track: "I Want It That Way"
+Album: "Punk Goes Pop"
+URL: "https://open.spotify.com/track/0X5ygHsca3pJ3KErPsXhGc"
+---------------
+
+Artist: "Steel Panther"
+Track: "I Want It That Way"
+Album: "I Want It That Way"
+URL: "https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY"
+---------------
+
+Artist: "Jess and Gabriel"
+Track: "I Want It That Way"
+Album: "Under the Covers, Vol. 3"
+URL: "https://open.spotify.com/track/52FgeDoHydoWZbFGgxwCdH"
+---------------
+
+Artist: "Tyler and Mark"
+Track: "I Want It That Way"
+Album: "Beautiful Dreams"
+URL: "https://open.spotify.com/track/5c2CckYG203pzNuwLh5sAI"
+---------------
+
+Artist: "Nineties Legends"
+Track: "I Want It That Way"
+Album: "Musicbox"
+URL: "https://open.spotify.com/track/40jPuNkx6EFoRJXWht3NJO"
+---------------
+
+Artist: "Backstreet Boys"
+Track: "I Want It That Way"
+Album: "90 Sweet 90s Hits!"
+URL: "https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5"
+---------------
+
+Artist: "Glee Cast"
+Track: "Bye Bye Bye / I Want It That Way (Glee Cast Version)"
+Album: "Bye Bye Bye / I Want It That Way (Glee Cast Version)"
+URL: "https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP"
+---------------
+
+Artist: "Scary Pockets"
+Track: "I Want It That Way"
+Album: "Nu Funk"
+URL: "https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr"
+---------------
+
+Artist: "Manuel Costa"
+Track: "I Want It That Way"
+Album: "I Want It That Way"
+URL: "https://open.spotify.com/track/3q8lVRIRS88HAfGRaEY6qD"
+---------------
+
+Artist: "Boyce Avenue"
+Track: "I Want It That Way"
+Album: "Cover Sessions, Vol. 2"
+URL: "https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx"
+---------------
+
+Artist: "Backstreet Boys"
+Track: "I Want It That Way"
+Album: "NKOTBSB"
+URL: "https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju"
+---------------
+
+Artist: "Scott Bradlee's Postmodern Jukebox"
+Track: "I Want It That Way"
+Album: "Selfies on Kodachrome"
+URL: "https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM"
+---------------
+
+Artist: "Yshop"
+Track: "I Want It That Way"
+Album: "I Want It That Way"
+URL: "https://open.spotify.com/track/0sRt44NXdLVqYeD2TAm1A5"
+---------------
+
+Artist: "\"Weird Al\" Yankovic"
+Track: "Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)"
+Album: "The Essential \"Weird Al\" Yankovic"
+URL: "https://open.spotify.com/track/1vaico2C72imYowF4Kv04V"
 ---------------

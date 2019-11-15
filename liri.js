@@ -96,7 +96,6 @@ inquirer.prompt([
             //  var nobody = "Mr. Nobody";
             function noResponse(nobody) {
               var nobodyUrl = "http://www.omdbapi.com/?t=" + nobody + "&y=&plot=short&apikey=trilogy";
-
               axios.get(nobodyUrl).then(function (nobody) {
                 // console.log(nobody)
                 console.log("\n\nMovie title: " + nobody.data.Title
@@ -111,8 +110,8 @@ inquirer.prompt([
               )
             }
             noResponse("Mr. Nobody");
-          }
-          // else {}
+          };
+          // appending actual search results to the txt file
           fs.appendFile("liri.txt", "\n\nSearching for the movie: " + response.userSearch + "\n\nMovie title: " + movieResponse.data.Title
             + "\nYear released: " + movieResponse.data.Year
             + "\nIMDB Rating: " + movieResponse.data.Ratings[0]["Value"]
