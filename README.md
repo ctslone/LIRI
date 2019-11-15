@@ -4,7 +4,10 @@ Like 'SIRI' but without the 'S', this CLI application works by taking in a user'
 
 ## Getting Started
 
+[Demo](https://youtu.be/0ei7fgJWGIU)
+
 Want to try it out?
+
 Just clone the repo in your local machine and open it using node, in you favorite source code editor or bash shell.
 
 Please note, you will have to provide your own API key for Spotify to use the spotify song search feature.
