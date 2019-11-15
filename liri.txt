@@ -1,679 +1,7 @@
 
 
-Searching for song: I Want it That Way
-
-Searching for song: 
-
-Artist: "Backstreet Boys"
-Track: "I Want It That Way"
-Album: "The Hits--Chapter One"
-URL: "https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6"
----------------
-
-Artist: "Backstreet Boys"
-Track: "I Want It That Way"
-Album: "Millennium"
-URL: "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
----------------
-
-Artist: "Mick Jensen"
-Track: "I Want It That Way"
-Album: "I Want It That Way"
-URL: "https://open.spotify.com/track/0ympGdYdVlZ8zo6irdjMvd"
----------------
-
-Artist: "Anthem Lights"
-Track: "I Want It That Way"
-Album: "Covers Part IV"
-URL: "https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA"
----------------
-
-Artist: "Tyler and Mark"
-Track: "I Want It That Way"
-Album: "Beautiful Dreams"
-URL: "https://open.spotify.com/track/5c2CckYG203pzNuwLh5sAI"
----------------
-
-Artist: "\"Weird Al\" Yankovic"
-Track: "Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)"
-Album: "Poodle Hat"
-URL: "https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK"
----------------
-
-Artist: "Backstreet Boys"
-Track: "I Want It That Way - Reimagined"
-Album: "I Want It That Way (Reimagined)"
-URL: "https://open.spotify.com/track/62KnDRUq6CBcT7Bqb9IHKV"
----------------
-
-Artist: "Dynamite Boy"
-Track: "I Want It That Way"
-Album: "Punk Goes Pop"
-URL: "https://open.spotify.com/track/0X5ygHsca3pJ3KErPsXhGc"
----------------
-
-Artist: "Nineties Legends"
-Track: "I Want It That Way"
-Album: "Musicbox"
-URL: "https://open.spotify.com/track/40jPuNkx6EFoRJXWht3NJO"
----------------
-
-Artist: "Steel Panther"
-Track: "I Want It That Way"
-Album: "I Want It That Way"
-URL: "https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY"
----------------
-
-Artist: "Jess and Gabriel"
-Track: "I Want It That Way"
-Album: "Under the Covers, Vol. 3"
-URL: "https://open.spotify.com/track/52FgeDoHydoWZbFGgxwCdH"
----------------
-
-Artist: "Backstreet Boys"
-Track: "I Want It That Way"
-Album: "90 Sweet 90s Hits!"
-URL: "https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5"
----------------
-
-Artist: "Glee Cast"
-Track: "Bye Bye Bye / I Want It That Way (Glee Cast Version)"
-Album: "Bye Bye Bye / I Want It That Way (Glee Cast Version)"
-URL: "https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP"
----------------
-
-Artist: "Scary Pockets"
-Track: "I Want It That Way"
-Album: "Nu Funk"
-URL: "https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr"
----------------
-
-Artist: "Manuel Costa"
-Track: "I Want It That Way"
-Album: "I Want It That Way"
-URL: "https://open.spotify.com/track/3q8lVRIRS88HAfGRaEY6qD"
----------------
-
-Artist: "Boyce Avenue"
-Track: "I Want It That Way"
-Album: "Cover Sessions, Vol. 2"
-URL: "https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx"
----------------
-
-Artist: "Backstreet Boys"
-Track: "I Want It That Way"
-Album: "NKOTBSB"
-URL: "https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju"
----------------
-
-Artist: "Scott Bradlee's Postmodern Jukebox"
-Track: "I Want It That Way"
-Album: "Selfies on Kodachrome"
-URL: "https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM"
----------------
-
-Artist: "Yshop"
-Track: "I Want It That Way"
-Album: "I Want It That Way"
-URL: "https://open.spotify.com/track/0sRt44NXdLVqYeD2TAm1A5"
----------------
-
-Artist: "\"Weird Al\" Yankovic"
-Track: "Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)"
-Album: "The Essential \"Weird Al\" Yankovic"
-URL: "https://open.spotify.com/track/1vaico2C72imYowF4Kv04V"
----------------
-
-Searching for Cher concerts...
-Venue: Moda Center
-Location: Portland, United States
-Date: 11/19/2019, 19:30
----------------
-Venue: Chase Center
-Location: San Francisco, United States
-Date: 11/21/2019, 19:30
----------------
-Venue: Gila River Arena
-Location: Glendale, United States
-Date: 11/23/2019, 20:00
----------------
-Venue: Pepsi Center
-Location: Denver, United States
-Date: 11/25/2019, 19:30
----------------
-Venue: United Center
-Location: Chicago, United States
-Date: 11/27/2019, 19:30
----------------
-Venue: Scotiabank Arena
-Location: Toronto, Canada
-Date: 11/29/2019, 19:30
----------------
-Venue: Madison Square Garden
-Location: New York, United States
-Date: 12/03/2019, 19:30
----------------
-Venue: Madison Square Garden
-Location: New York, United States
-Date: 12/04/2019, 19:30
----------------
-Venue: Wells Fargo Center
-Location: Philadelphia, United States
-Date: 12/06/2019, 20:00
----------------
-Venue: TD Garden
-Location: Boston, United States
-Date: 12/08/2019, 19:30
----------------
-Venue: Capital One Arena
-Location: Washington, United States
-Date: 12/10/2019, 19:30
----------------
-Venue: Smoothie King Center
-Location: New Orleans, United States
-Date: 12/13/2019, 20:00
----------------
-Venue: Toyota Center
-Location: Houston, United States
-Date: 12/15/2019, 19:30
----------------
-Venue: AT&T Center
-Location: San Antonio, United States
-Date: 12/17/2019, 19:30
----------------
-Venue: American Airlines Center
-Location: Dallas, United States
-Date: 12/19/2019, 19:30
----------------
-Venue: Park Theater
-Location: Las Vegas, United States
-Date: 02/19/2020, 20:00
----------------
-Venue: Park Theater
-Location: Las Vegas, United States
-Date: 02/21/2020, 20:00
----------------
-Venue: Park Theater
-Location: Las Vegas, United States
-Date: 02/22/2020, 20:00
----------------
-Venue: Park Theater
-Location: Las Vegas, United States
-Date: 02/26/2020, 20:00
----------------
-Venue: Park Theater
-Location: Las Vegas, United States
-Date: 02/28/2020, 20:00
----------------
-Venue: Park Theater
-Location: Las Vegas, United States
-Date: 02/29/2020, 20:00
----------------
-Venue: Don Haskins Center
-Location: El Paso, United States
-Date: 03/06/2020, 20:00
----------------
-Venue: Bert Ogden Arena
-Location: Edinburg, United States
-Date: 03/08/2020, 19:30
----------------
-Venue: CenturyLink Center
-Location: Bossier City, United States
-Date: 03/10/2020, 19:30
----------------
-Venue: Chesapeake Energy Arena
-Location: Oklahoma City, United States
-Date: 03/12/2020, 19:30
----------------
-Venue: Simmons Bank Arena 
-Location: North Little Rock, United States
-Date: 03/14/2020, 20:00
----------------
-Venue: FedExForum
-Location: Memphis, United States
-Date: 03/16/2020, 19:30
----------------
-Venue: Legacy Arena at the BJCC
-Location: Birmingham, United States
-Date: 03/18/2020, 19:30
----------------
-Venue: North Charleston Coliseum
-Location: North Charleston, United States
-Date: 03/20/2020, 20:00
----------------
-Venue: Pensacola Bay Center
-Location: Pensacola, United States
-Date: 03/22/2020, 19:30
----------------
-Venue: AmericanAirlines Arena
-Location: Miami, United States
-Date: 03/24/2020, 19:30
----------------
-Venue: Amalie Arena
-Location: Tampa, United States
-Date: 03/26/2020, 19:30
----------------
-Venue: U.S. Bank Arena
-Location: Cincinnati, United States
-Date: 04/07/2020, 19:30
----------------
-Venue: Kohl Center
-Location: Madison, United States
-Date: 04/09/2020, 19:30
----------------
-Venue: Fargodome
-Location: Fargo, United States
-Date: 04/11/2020, 20:00
----------------
-Venue: Resch Center
-Location: Green Bay, United States
-Date: 04/13/2020, 19:30
----------------
-Venue: Wells Fargo Arena
-Location: Des Moines, United States
-Date: 04/16/2020, 19:30
----------------
-Venue: Sprint Center
-Location: Kansas City, United States
-Date: 04/18/2020, 20:00
----------------
-Venue: Pinnacle Bank Arena
-Location: Lincoln, United States
-Date: 04/20/2020, 19:30
----------------
-Venue: Intrust Bank Arena
-Location: Wichita, United States
-Date: 04/22/2020, 19:30
----------------
-Venue: Casper Events Center
-Location: Casper, United States
-Date: 04/24/2020, 20:00
----------------
-Venue: First Interstate Arena
-Location: Billings, United States
-Date: 04/26/2020, 19:30
----------------
-Venue: Vivint Smart Home Arena
-Location: Salt Lake City, United States
-Date: 04/28/2020, 19:30
----------------
-Venue: Ford Idaho Center Arena
-Location: Nampa, United States
-Date: 04/30/2020, 19:30
----------------
-Venue: Spokane Arena
-Location: Spokane, United States
-Date: 05/02/2020, 20:00
----------------
-Venue: Angel Of The Winds Arena
-Location: Everett, United States
-Date: 05/04/2020, 19:30
----------------
-Venue: Golden 1 Center
-Location: Sacramento, United States
-Date: 05/06/2020, 19:30
----------------
-
-Searching for Cher concerts...
-
-Venue: Chase Center
-Location: San Francisco, United States
-Date: 11/21/2019, 19:30
----------------
-
-Venue: Pepsi Center
-Location: Denver, United States
-Date: 11/25/2019, 19:30
----------------
-
-Venue: Gila River Arena
-Location: Glendale, United States
-Date: 11/23/2019, 20:00
----------------
-
-Venue: Moda Center
-Location: Portland, United States
-Date: 11/19/2019, 19:30
----------------
-
-Venue: United Center
-Location: Chicago, United States
-Date: 11/27/2019, 19:30
----------------
-
-Venue: Madison Square Garden
-Location: New York, United States
-Date: 12/03/2019, 19:30
----------------
-
-Venue: Scotiabank Arena
-Location: Toronto, Canada
-Date: 11/29/2019, 19:30
----------------
-
-Venue: Madison Square Garden
-Location: New York, United States
-Date: 12/04/2019, 19:30
----------------
-
-Venue: Wells Fargo Center
-Location: Philadelphia, United States
-Date: 12/06/2019, 20:00
----------------
-
-Venue: TD Garden
-Location: Boston, United States
-Date: 12/08/2019, 19:30
----------------
-
-Venue: Capital One Arena
-Location: Washington, United States
-Date: 12/10/2019, 19:30
----------------
-
-Venue: Smoothie King Center
-Location: New Orleans, United States
-Date: 12/13/2019, 20:00
----------------
-
-Venue: Toyota Center
-Location: Houston, United States
-Date: 12/15/2019, 19:30
----------------
-
-Venue: AT&T Center
-Location: San Antonio, United States
-Date: 12/17/2019, 19:30
----------------
-
-Venue: American Airlines Center
-Location: Dallas, United States
-Date: 12/19/2019, 19:30
----------------
-
-Venue: Park Theater
-Location: Las Vegas, United States
-Date: 02/19/2020, 20:00
----------------
-
-Venue: Park Theater
-Location: Las Vegas, United States
-Date: 02/21/2020, 20:00
----------------
-
-Venue: Park Theater
-Location: Las Vegas, United States
-Date: 02/22/2020, 20:00
----------------
-
-Venue: Park Theater
-Location: Las Vegas, United States
-Date: 02/26/2020, 20:00
----------------
-
-Venue: Park Theater
-Location: Las Vegas, United States
-Date: 02/28/2020, 20:00
----------------
-
-Venue: Park Theater
-Location: Las Vegas, United States
-Date: 02/29/2020, 20:00
----------------
-
-Venue: Don Haskins Center
-Location: El Paso, United States
-Date: 03/06/2020, 20:00
----------------
-
-Venue: Bert Ogden Arena
-Location: Edinburg, United States
-Date: 03/08/2020, 19:30
----------------
-
-Venue: CenturyLink Center
-Location: Bossier City, United States
-Date: 03/10/2020, 19:30
----------------
-
-Venue: Chesapeake Energy Arena
-Location: Oklahoma City, United States
-Date: 03/12/2020, 19:30
----------------
-
-Venue: Simmons Bank Arena 
-Location: North Little Rock, United States
-Date: 03/14/2020, 20:00
----------------
-
-Venue: FedExForum
-Location: Memphis, United States
-Date: 03/16/2020, 19:30
----------------
-
-Venue: Legacy Arena at the BJCC
-Location: Birmingham, United States
-Date: 03/18/2020, 19:30
----------------
-
-Venue: North Charleston Coliseum
-Location: North Charleston, United States
-Date: 03/20/2020, 20:00
----------------
-
-Venue: Pensacola Bay Center
-Location: Pensacola, United States
-Date: 03/22/2020, 19:30
----------------
-
-Venue: AmericanAirlines Arena
-Location: Miami, United States
-Date: 03/24/2020, 19:30
----------------
-
-Venue: Amalie Arena
-Location: Tampa, United States
-Date: 03/26/2020, 19:30
----------------
-
-Venue: U.S. Bank Arena
-Location: Cincinnati, United States
-Date: 04/07/2020, 19:30
----------------
-
-Venue: Kohl Center
-Location: Madison, United States
-Date: 04/09/2020, 19:30
----------------
-
-Venue: Fargodome
-Location: Fargo, United States
-Date: 04/11/2020, 20:00
----------------
-
-Venue: Resch Center
-Location: Green Bay, United States
-Date: 04/13/2020, 19:30
----------------
-
-Venue: Wells Fargo Arena
-Location: Des Moines, United States
-Date: 04/16/2020, 19:30
----------------
-
-Venue: Sprint Center
-Location: Kansas City, United States
-Date: 04/18/2020, 20:00
----------------
-
-Venue: Pinnacle Bank Arena
-Location: Lincoln, United States
-Date: 04/20/2020, 19:30
----------------
-
-Venue: Intrust Bank Arena
-Location: Wichita, United States
-Date: 04/22/2020, 19:30
----------------
-
-Venue: Casper Events Center
-Location: Casper, United States
-Date: 04/24/2020, 20:00
----------------
-
-Venue: First Interstate Arena
-Location: Billings, United States
-Date: 04/26/2020, 19:30
----------------
-
-Venue: Vivint Smart Home Arena
-Location: Salt Lake City, United States
-Date: 04/28/2020, 19:30
----------------
-
-Venue: Ford Idaho Center Arena
-Location: Nampa, United States
-Date: 04/30/2020, 19:30
----------------
-
-Venue: Spokane Arena
-Location: Spokane, United States
-Date: 05/02/2020, 20:00
----------------
-
-Venue: Angel Of The Winds Arena
-Location: Everett, United States
-Date: 05/04/2020, 19:30
----------------
-
-Venue: Golden 1 Center
-Location: Sacramento, United States
-Date: 05/06/2020, 19:30
----------------
-
-Searching for song: Thriller
-
-Artist: "Michael Jackson"
-Track: "Thriller"
-Album: "Scream"
-URL: "https://open.spotify.com/track/7azo4rpSUh8nXgtonC6Pkq"
----------------
-
-Artist: "Michael Jackson"
-Track: "Billie Jean"
-Album: "Thriller 25 Super Deluxe Edition"
-URL: "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
----------------
-
-Artist: "Michael Jackson"
-Track: "Thriller"
-Album: "Thriller 25 Super Deluxe Edition"
-URL: "https://open.spotify.com/track/3S2R0EVwBSAVMd5UMgKTL0"
----------------
-
-Artist: "Michael Jackson"
-Track: "Thriller"
-Album: "Michael Jackson's This Is It"
-URL: "https://open.spotify.com/track/1D9KEXIrlmPUkMTdYzqgX4"
----------------
-
-Artist: "Michael Jackson"
-Track: "Thriller - Single Version"
-Album: "The Essential Michael Jackson"
-URL: "https://open.spotify.com/track/20efeySIfZoiSaISGLBbNs"
----------------
-
-Artist: "Michael Jackson"
-Track: "Beat It - Single Version"
-Album: "Thriller 25 Super Deluxe Edition"
-URL: "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"
----------------
-
-Artist: "Michael Jackson"
-Track: "P.Y.T. (Pretty Young Thing)"
-Album: "Thriller 25 Super Deluxe Edition"
-URL: "https://open.spotify.com/track/5lA3pwMkBdd24StM90QrNR"
----------------
-
-Artist: "Michael Jackson"
-Track: "Thriller"
-Album: "Thriller"
-URL: "https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC"
----------------
-
-Artist: "Michael Jackson"
-Track: "P.Y.T. (Pretty Young Thing)"
-Album: "Thriller"
-URL: "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"
----------------
-
-Artist: "Michael Jackson"
-Track: "Thriller (Steve Aoki Midnight Hour Remix)"
-Album: "Thriller (Steve Aoki Midnight Hour Remix)"
-URL: "https://open.spotify.com/track/2SrGtpbPh7czhWKGmXk8Aw"
----------------
-
-Artist: "Ice Nine Kills"
-Track: "Thriller"
-Album: "The Silver Scream (FINAL CUT)"
-URL: "https://open.spotify.com/track/6mEEAGUOkmUudaxKx5JeEp"
----------------
-
-Artist: "Michael Jackson"
-Track: "Human Nature"
-Album: "Thriller 25 Super Deluxe Edition"
-URL: "https://open.spotify.com/track/35lAjvsvS9k9HHuP1fjDT8"
----------------
-
-Artist: "Fall Out Boy"
-Track: "Thriller"
-Album: "Infinity On High"
-URL: "https://open.spotify.com/track/07kBp5VuebubsozpQd3nyK"
----------------
-
-Artist: "Michael Jackson"
-Track: "Thriller - 2003 Edit"
-Album: "Number Ones"
-URL: "https://open.spotify.com/track/0wQy2OO7jKjm0OOmA7gv3f"
----------------
-
-Artist: "Michael Jackson"
-Track: "Wanna Be Startin' Somethin'"
-Album: "Thriller 25 Super Deluxe Edition"
-URL: "https://open.spotify.com/track/2kulOHR2XY6YDZCWXb38hn"
----------------
-
-Artist: "Michael Jackson"
-Track: "Billie Jean"
-Album: "Thriller"
-URL: "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
----------------
-
-Artist: "Michael Jackson"
-Track: "The Lady in My Life"
-Album: "Thriller"
-URL: "https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy"
----------------
-
-Artist: "Michael Jackson"
-Track: "Human Nature"
-Album: "Thriller"
-URL: "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
----------------
-
-Artist: "Michael Jackson"
-Track: "Baby Be Mine"
-Album: "Thriller"
-URL: "https://open.spotify.com/track/6XYbMGvtl6tlPoGWaiH7EY"
----------------
-
-Artist: "Michael Jackson"
-Track: "Beat It - Single Version"
-Album: "Thriller"
-URL: "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
----------------
-
 Searching for the movie: Jaws
+
 Movie title: Jaws
 Year released: 1975
 IMDB Rating: 8.0/10
@@ -684,14 +12,124 @@ Plot: When a killer shark unleashes chaos on a beach community, it's up to a loc
 Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
 ---------------
 
-Searching for the movie: jaws
+Searching for song: Gravity
 
-Movie title: Jaws
-Year released: 1975
-IMDB Rating: 8.0/10
-Rotten Tomatoes Rating: 98%
-Country of Production: USA
-Language: English
-Plot: When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.
-Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+Artist: "John Mayer"
+Track: "Gravity"
+Album: "Continuum"
+URL: "https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7"
+---------------
+
+Artist: "Sara Bareilles"
+Track: "Gravity"
+Album: "Little Voice"
+URL: "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
+---------------
+
+Artist: "Gryffin"
+Track: "Need Your Love (with Noah Kahan)"
+Album: "Gravity"
+URL: "https://open.spotify.com/track/1vsQb8n0icvMsFnL9663LM"
+---------------
+
+Artist: "Gryffin"
+Track: "Need Your Love (with Noah Kahan)"
+Album: "Gravity"
+URL: "https://open.spotify.com/track/6hciDCyJDYCsYQp2lH6kdA"
+---------------
+
+Artist: "Shontelle"
+Track: "Impossible - Main"
+Album: "No Gravity"
+URL: "https://open.spotify.com/track/45EDI3rk0f4cAMt9f8b56R"
+---------------
+
+Artist: "Yung Gravy"
+Track: "Forget Me Thots"
+Album: "Yung Gravity - EP"
+URL: "https://open.spotify.com/track/2P1tkiGLZ5hoxrXfs073iU"
+---------------
+
+Artist: "Gryffin"
+Track: "All You Need To Know (feat. Calle Lehmann)"
+Album: "Gravity"
+URL: "https://open.spotify.com/track/4TIkSdsNSfqpuq6ZYvCjAz"
+---------------
+
+Artist: "Juni Tinley"
+Track: "Escape Gravity"
+Album: "Escape Gravity"
+URL: "https://open.spotify.com/track/3xjsbk8OtU1uR3FuOPS2NT"
+---------------
+
+Artist: "YoungBoy Never Broke Again"
+Track: "Gravity"
+Album: "38 Baby"
+URL: "https://open.spotify.com/track/1OgoDWWGzCe6uwVdo2pozN"
+---------------
+
+Artist: "Gryffin"
+Track: "Remember (with ZOHARA)"
+Album: "Gravity"
+URL: "https://open.spotify.com/track/3aFxfpfeATHYg1n750dhgq"
+---------------
+
+Artist: "Gryffin"
+Track: "Just For A Moment (feat. Iselin)"
+Album: "Gravity Pt. 1"
+URL: "https://open.spotify.com/track/66U2Ud0RBGfQ0ZQrI2m8FC"
+---------------
+
+Artist: "Gryffin"
+Track: "Body Back (feat. Maia Wright)"
+Album: "Gravity"
+URL: "https://open.spotify.com/track/57DJaoHdeeRrg7MWthNnee"
+---------------
+
+Artist: "Papa Roach"
+Track: "Gravity"
+Album: "F.E.A.R."
+URL: "https://open.spotify.com/track/4nrWU5PRlFJubLjahofpOU"
+---------------
+
+Artist: "Gryffin"
+Track: "Tie Me Down (with Elley Duhé)"
+Album: "Gravity"
+URL: "https://open.spotify.com/track/2zh01m4PiHaZz4BAm0NRxs"
+---------------
+
+Artist: "Gryffin"
+Track: "Bye Bye (feat. Ivy Adara)"
+Album: "Gravity Pt. 1"
+URL: "https://open.spotify.com/track/3SEupjP7CBdIoNPrFrMozG"
+---------------
+
+Artist: "EDEN"
+Track: "Gravity"
+Album: "End Credits"
+URL: "https://open.spotify.com/track/4gUQmfnDAS7wwH0pzOH3Fb"
+---------------
+
+Artist: "Gryffin"
+Track: "Nobody Compares To You (feat. Katie Pearlman)"
+Album: "Gravity Pt. 1"
+URL: "https://open.spotify.com/track/2Un9MGFwpGdGU9yl9KOvXx"
+---------------
+
+Artist: "Yung Gravy"
+Track: "Yung Gravity"
+Album: "Yung Gravity"
+URL: "https://open.spotify.com/track/19XYvER2dUIQ8RuVWCYKiw"
+---------------
+
+Artist: "Modest Mouse"
+Track: "Gravity Rides Everything"
+Album: "The Moon & Antarctica"
+URL: "https://open.spotify.com/track/1pPqVrG2RCHXx81Aw4xp99"
+---------------
+
+Artist: "Stephen Schwartz"
+Track: "Defying Gravity - From \"Wicked\" Original Broadway Cast Recording/2003"
+Album: "Wicked"
+URL: "https://open.spotify.com/track/1bpnYrDCforv9ctJMzJRV8"
 ---------------

@@ -90,7 +90,29 @@ inquirer.prompt([
         axios.get(queryUrl).then(function (movieResponse) {
           // If the request with axios is successful
           // console.log(movieResponse.data);
-          // appending the results to the txt file
+          // if no input, show Mr. Nobody
+          if (movie.length === 0) {
+            console.log("You must enter a movie! You got an error!");
+            //  var nobody = "Mr. Nobody";
+            function noResponse(nobody) {
+              var nobodyUrl = "http://www.omdbapi.com/?t=" + nobody + "&y=&plot=short&apikey=trilogy";
+
+              axios.get(nobodyUrl).then(function (nobody) {
+                // console.log(nobody)
+                console.log("\n\nMovie title: " + nobody.data.Title
+                  + "\nYear released: " + nobody.data.Year
+                  + "\nIMDB Rating: " + nobody.data.Ratings[0]["Value"]
+                  + "\nRotten Tomatoes Rating: " + nobody.data.Ratings[1]["Value"]
+                  + "\nCountry of Production: " + nobody.data.Country
+                  + "\nLanguage: " + nobody.data.Language
+                  + "\nPlot: " + nobody.data.Plot
+                  + "\nActors: " + nobody.data.Actors)
+              }
+              )
+            }
+            noResponse("Mr. Nobody");
+          }
+          // else {}
           fs.appendFile("liri.txt", "\n\nSearching for the movie: " + response.userSearch + "\n\nMovie title: " + movieResponse.data.Title
             + "\nYear released: " + movieResponse.data.Year
             + "\nIMDB Rating: " + movieResponse.data.Ratings[0]["Value"]
