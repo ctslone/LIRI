@@ -18,6 +18,8 @@ Once everything is installed, run the command 'node liri.js' in your command lin
 
 ## Current Commands
 
+![](images/prompt.png)
+
 The current commands are:
 * concert-this: This requires an artist/band as the input and will return the following, in order of most recent first:
   * Name of the venue
@@ -37,6 +39,10 @@ The current commands are:
   * Language of the movie.
   * Plot of the movie.
   * Actors in the movie.
+
+Example response:
+
+![](images/result.png)
 
 ## Challenges
 

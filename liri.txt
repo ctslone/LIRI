@@ -444,3 +444,247 @@ Track: "Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)"
 Album: "The Essential \"Weird Al\" Yankovic"
 URL: "https://open.spotify.com/track/1vaico2C72imYowF4Kv04V"
 ---------------
+
+Searching for song: Gravity
+
+Artist: "John Mayer"
+Track: "Gravity"
+Album: "Continuum"
+URL: "https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7"
+---------------
+
+Artist: "EDEN"
+Track: "Gravity"
+Album: "End Credits"
+URL: "https://open.spotify.com/track/4gUQmfnDAS7wwH0pzOH3Fb"
+---------------
+
+Artist: "Modest Mouse"
+Track: "Gravity Rides Everything"
+Album: "The Moon & Antarctica"
+URL: "https://open.spotify.com/track/1pPqVrG2RCHXx81Aw4xp99"
+---------------
+
+Artist: "Timeflies"
+Track: "Gravity"
+Album: "Gravity"
+URL: "https://open.spotify.com/track/4eCe46kZbdcdHeWhjZww8I"
+---------------
+
+Artist: "Wage War"
+Track: "Gravity"
+Album: "Deadweight"
+URL: "https://open.spotify.com/track/33TWAlDSc32np6U9FDjiZN"
+---------------
+
+Artist: "Alex & Sierra"
+Track: "Gravity"
+Album: "As Seen On TV"
+URL: "https://open.spotify.com/track/2Ei6u28a883JNB8zABIChQ"
+---------------
+
+Artist: "Autograf"
+Track: "Gravity (Flyboy Remix feat. French Horn Rebellion & Flyboy)"
+Album: "Gravity / Dead Soon (Remixes)"
+URL: "https://open.spotify.com/track/2aKxfUQg9dhvgm7Yt9Lc7Q"
+---------------
+
+Artist: "Hollywood Undead"
+Track: "Gravity"
+Album: "Day Of The Dead"
+URL: "https://open.spotify.com/track/5LkSZHRBt0kfr3wnauwUhn"
+---------------
+
+Artist: "yetep"
+Track: "Gravity"
+Album: "Gravity"
+URL: "https://open.spotify.com/track/2rOfnCrbxZpMvENtx8LqY9"
+---------------
+
+Artist: "Brad Breeck"
+Track: "Gravity Falls Main Title Theme (from \"Gravity Falls\")"
+Album: "Gravity Falls Main Title Theme (from \"Gravity Falls\")"
+URL: "https://open.spotify.com/track/0DhnpIeCaMp85Jyc39sUBy"
+---------------
+
+Artist: "John Mayer"
+Track: "Gravity - Live at the Nokia Theatre, Los Angeles, CA - December 2007"
+Album: "Where the Light Is: John Mayer Live In Los Angeles"
+URL: "https://open.spotify.com/track/68KdvPllp9Pug8ZG6AByFY"
+---------------
+
+Artist: "TAEYEON"
+Track: "Gravity"
+Album: "Purpose - The 2nd Album"
+URL: "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
+---------------
+
+Artist: "Floor Overhead"
+Track: "Gravity and Resignation"
+Album: "Uses for Pavement"
+URL: "https://open.spotify.com/track/2TQGxiOFCdnt7L3oAIaQnB"
+---------------
+
+Artist: "A Perfect Circle"
+Track: "Gravity"
+Album: "Thirteenth Step"
+URL: "https://open.spotify.com/track/1CO4BB8CaiQggtJ0R6GwGt"
+---------------
+
+Artist: "Steven Price"
+Track: "Gravity"
+Album: "Gravity (Original Motion Picture Soundtrack)"
+URL: "https://open.spotify.com/track/2mFea4DOhY3iShay4BQ0se"
+---------------
+
+Artist: "Drive-By Truckers"
+Track: "Gravity's Gone"
+Album: "A Blessing and a Curse"
+URL: "https://open.spotify.com/track/1mWCI4rxvYF9ELliQg1iUg"
+---------------
+
+Artist: "Laila Lawson"
+Track: "Gravity"
+Album: "Love Heals"
+URL: "https://open.spotify.com/track/3ysGZCVWac500Tp1WtPfSF"
+---------------
+
+Artist: "YoungBoy Never Broke Again"
+Track: "Gravity"
+Album: "38 Baby"
+URL: "https://open.spotify.com/track/1OgoDWWGzCe6uwVdo2pozN"
+---------------
+
+Artist: "Papa Roach"
+Track: "Gravity"
+Album: "F.E.A.R."
+URL: "https://open.spotify.com/track/4nrWU5PRlFJubLjahofpOU"
+---------------
+
+Artist: "Sara Bareilles"
+Track: "Gravity"
+Album: "Little Voice"
+URL: "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
+---------------
+
+Searching for song: Gravity
+
+Artist: "John Mayer"
+Track: "Gravity"
+Album: "Continuum"
+URL: "https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7"
+---------------
+
+Artist: "Sara Bareilles"
+Track: "Gravity"
+Album: "Little Voice"
+URL: "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
+---------------
+
+Artist: "YoungBoy Never Broke Again"
+Track: "Gravity"
+Album: "38 Baby"
+URL: "https://open.spotify.com/track/1OgoDWWGzCe6uwVdo2pozN"
+---------------
+
+Artist: "Papa Roach"
+Track: "Gravity"
+Album: "F.E.A.R."
+URL: "https://open.spotify.com/track/4nrWU5PRlFJubLjahofpOU"
+---------------
+
+Artist: "EDEN"
+Track: "Gravity"
+Album: "End Credits"
+URL: "https://open.spotify.com/track/4gUQmfnDAS7wwH0pzOH3Fb"
+---------------
+
+Artist: "Modest Mouse"
+Track: "Gravity Rides Everything"
+Album: "The Moon & Antarctica"
+URL: "https://open.spotify.com/track/1pPqVrG2RCHXx81Aw4xp99"
+---------------
+
+Artist: "Timeflies"
+Track: "Gravity"
+Album: "Gravity"
+URL: "https://open.spotify.com/track/4eCe46kZbdcdHeWhjZww8I"
+---------------
+
+Artist: "Wage War"
+Track: "Gravity"
+Album: "Deadweight"
+URL: "https://open.spotify.com/track/33TWAlDSc32np6U9FDjiZN"
+---------------
+
+Artist: "Alex & Sierra"
+Track: "Gravity"
+Album: "As Seen On TV"
+URL: "https://open.spotify.com/track/2Ei6u28a883JNB8zABIChQ"
+---------------
+
+Artist: "Autograf"
+Track: "Gravity (Flyboy Remix feat. French Horn Rebellion & Flyboy)"
+Album: "Gravity / Dead Soon (Remixes)"
+URL: "https://open.spotify.com/track/2aKxfUQg9dhvgm7Yt9Lc7Q"
+---------------
+
+Artist: "Hollywood Undead"
+Track: "Gravity"
+Album: "Day Of The Dead"
+URL: "https://open.spotify.com/track/5LkSZHRBt0kfr3wnauwUhn"
+---------------
+
+Artist: "yetep"
+Track: "Gravity"
+Album: "Gravity"
+URL: "https://open.spotify.com/track/2rOfnCrbxZpMvENtx8LqY9"
+---------------
+
+Artist: "Brad Breeck"
+Track: "Gravity Falls Main Title Theme (from \"Gravity Falls\")"
+Album: "Gravity Falls Main Title Theme (from \"Gravity Falls\")"
+URL: "https://open.spotify.com/track/0DhnpIeCaMp85Jyc39sUBy"
+---------------
+
+Artist: "John Mayer"
+Track: "Gravity - Live at the Nokia Theatre, Los Angeles, CA - December 2007"
+Album: "Where the Light Is: John Mayer Live In Los Angeles"
+URL: "https://open.spotify.com/track/68KdvPllp9Pug8ZG6AByFY"
+---------------
+
+Artist: "TAEYEON"
+Track: "Gravity"
+Album: "Purpose - The 2nd Album"
+URL: "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
+---------------
+
+Artist: "Floor Overhead"
+Track: "Gravity and Resignation"
+Album: "Uses for Pavement"
+URL: "https://open.spotify.com/track/2TQGxiOFCdnt7L3oAIaQnB"
+---------------
+
+Artist: "Steven Price"
+Track: "Gravity"
+Album: "Gravity (Original Motion Picture Soundtrack)"
+URL: "https://open.spotify.com/track/2mFea4DOhY3iShay4BQ0se"
+---------------
+
+Artist: "A Perfect Circle"
+Track: "Gravity"
+Album: "Thirteenth Step"
+URL: "https://open.spotify.com/track/1CO4BB8CaiQggtJ0R6GwGt"
+---------------
+
+Artist: "Drive-By Truckers"
+Track: "Gravity's Gone"
+Album: "A Blessing and a Curse"
+URL: "https://open.spotify.com/track/1mWCI4rxvYF9ELliQg1iUg"
+---------------
+
+Artist: "Laila Lawson"
+Track: "Gravity"
+Album: "Love Heals"
+URL: "https://open.spotify.com/track/3ysGZCVWac500Tp1WtPfSF"
+---------------
